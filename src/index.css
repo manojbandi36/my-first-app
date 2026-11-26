@@ -83,7 +83,8 @@ h1 {
   }
 }
 h2 {
-  font-size: 24px;
+  /* changed font from 24 to 34"*/
+  font-size: 34px;
   line-height: 118%;
   letter-spacing: -0.24px;
   margin: 0 0 8px;
